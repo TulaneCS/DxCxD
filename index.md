@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data x Design x Community
+title: Data x Community x Design
 subtitle: A Community Workshop at Tulane University
 published: true
 ---
