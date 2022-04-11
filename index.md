@@ -4,9 +4,7 @@ title: Data x Design x Community
 subtitle: A Community Workshop at Tulane University
 published: true
 ---
-<p style="text-align:center;"><img src="{{ 'img/dxcxd_logo.png' | relative_url }}" style="height:200px;/></p>
-
-## Data x Design x Community
+<p style="text-align:center;"><img src="{{ 'img/dxcxd_logo.png' | relative_url }}"/></p>
 
 ### Overview
 
@@ -27,3 +25,21 @@ The event will take place 9:00 am to 12:00 noon on April 28th, 2022, Thursday, i
 * Break (10:15 - 10:30): Break and networking time and time to interact with posters from Tulane students and other community groups. Coffee and snacks will be provided.
 * Facilitated Workshop (10:30 - 11:30): Break out facilitated small group session with around 5 to 8 attendees to brainstorm around possible ideas and projects for future collaboration.
 * Gallery Walk (11:30 - 12:00): Group walk of the poster boards generated during the workshop sessions and continued time to interact with posters from the break session.
+
+### Sponsors
+
+| ---- | ---- |
+| <img src="{{ 'img/aaas.png' | relative_url }}"/> | <img src="{{ 'img/jurist.png' | relative_url }}"/> |
+
+
+### Organization and Contact
+
+* Edson Cabalfin, Tulane School of Architecture, Social Innovation and Social Entrepreneurship (SISE) Program
+  * E-mail: ecabalfin@tulane.edu
+  * Website: <https://architecture.tulane.edu/academics/social-innovation>
+* Aron Culotta, Tulane Computer Science 
+  * E-mail: aculotta@tulane.edu 
+  * Website: <http://cs.tulane.edu/~aculotta/>
+* Nicholas Mattei, Tulane Computer Science 
+  * E-mail: nsmattei@tulane.edu,
+  * Website: <http://www.nickmattei.net/>
