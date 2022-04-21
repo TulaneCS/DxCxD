@@ -19,7 +19,7 @@ If you are giving a talk you should have received an email from Nicholas Mattei 
 ## Detailed Schedule and Participant Information
 
 * **Overview and Welcome (9:00 – 9:15)** Presented by Aron Culotta and Nicholas Mattei
-* Lightning Talks (9:15 - 10:15): Members of the organizing committee and the local community will speak briefly about efforts already underway.
+* **Lightning Talks (9:15 - 10:15)**: Members of the organizing committee and the local community will speak briefly about efforts already underway.
   * Chris Daemmrich, Taylor Center at Tulane University
   * Ann Yoachim, Small Center at Tulane University
   * Liz Shephard, LifeCity, L3C
@@ -32,10 +32,10 @@ If you are giving a talk you should have received an email from Nicholas Mattei 
   * Bernadette Carriere, Thrive Nola
   * Lindsey Navarro, El Centro Inc
   * Eric Ogburn, City of New Orleans
-* Break (10:15 - 10:30): Break and networking time and time to interact with posters from Tulane students and other community groups. Coffee and snacks will be provided.
-* Facilitated Workshop (10:30 - 11:30): Break out facilitated small group session with around 5 to 8 attendees to brainstorm around possible ideas and projects for future collaboration.
+* **Break (10:15 - 10:30)**: Break and networking time and time to interact with posters from Tulane students and other community groups. Coffee and snacks will be provided.
+* **Facilitated Workshop (10:30 - 11:30)**: Break out facilitated small group session with around 5 to 8 attendees to brainstorm around possible ideas and projects for future collaboration.
   * We will be working with the pre-survey questions filled out by all participants to identify challenges, hopes, and possible solutions to data and design objectives of the various organizations.
-* Gallery Walk (11:30 - 12:00): Group walk of the poster boards generated during the workshop sessions and continued time to interact with posters from the break session.
+* **Gallery Walk (11:30 - 12:00)**: Group walk of the poster boards generated during the workshop sessions and continued time to interact with posters from the break session.
 
 ## Outcomes and Program Materials
 
