@@ -32,7 +32,7 @@ For the full program and day of logistics please see the [2022 Event Information
 ### Sponsors
 
 | ---- | ---- |
-| <img src="{{ 'img/aaas.png' | relative_url }}"/> | <img src="{{ 'img/jurist.png' | relative_url }}"/> |
+| <a href="https://www.aaas.org/programs/center-public-engagement-science-and-technology"><img src="{{ 'img/aaas.png' | relative_url }}"/></a> | <a href="https://ai.tulane.edu/"><img src="{{ 'img/jurist.png' | relative_url }}"/></a> |
 
 
 ### Organization and Contact
