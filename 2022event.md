@@ -18,6 +18,7 @@ If you are giving a talk you should have received an email from Nicholas Mattei 
 
 ## Detailed Schedule and Participant Information
 
+* **Registration (8:30 – 9:00)** Qatar Ballroom, Lavin-Bernick Center at Tulane University
 * **Overview and Welcome (9:00 – 9:15)** Presented by Aron Culotta and Nicholas Mattei
 * **Lightning Talks (9:15 - 10:15)**: Members of the organizing committee and the local community will speak briefly about efforts already underway.
   * Chris Daemmrich, Taylor Center at Tulane University
