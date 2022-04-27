@@ -27,7 +27,7 @@ If you are giving a talk you should have received an email from Nicholas Mattei 
   * Lamar Gardere, The Data Center
   * Jessica Dandridge, Water Collaborative of Greater New Orleans
   * Andrew Lewis, Court Watch NOLA
-  * Ryan Harvey, Code For Nola
+  * Ryan B. Harvey, Code For New Orleans
   * Cole Williams, The Great New Orleans Citizens Relief Team
   * Leslie Elana Scott, College Track New Orleans
   * Bernadette Carriere, Thrive Nola
